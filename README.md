@@ -1,7 +1,43 @@
-### Hi there 👋
+# 🖥 Web Developer || CyberSecurity Enthusiast
 
-Here are some ideas to get you started:
+Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast from Nepal.
 
-- 🌱 I’m currently learning React.
-- 💬 Ask me about Python, React, Django, Routing & Switching, Photoshop
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nikhilxnepal/).
+## I am passionate about:
+
+- Web Develpoment
+- Graphics Designing
+- CyberSecurity
+
+## Skills
+
+<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
+<img src="https://img.shields.io/badge/react%20-30a8fe" />
+<img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+
+</br>
+<details>
+	<summary>Tools</summary>
+	<ul>
+    <li>Visual Studio Code</li>
+		<li>Adobe Photoshop</li>
+		<li>Adobe XD</li>
+    <li>Github</li>
+    <li>Pycharm</li>
+   </ul>
+
+</details>
+
+<details>
+	<summary>Operating Systems</summary>
+	<ul>
+		<li>Windows</li>
+    <li>Linux</li>
+	</ul>
+</details>
+</br>
+</br>
+<a href="http://nepalnikhil.com.np/assets/images/nikhil-cv.pdf"><img src="https://img.shields.io/badge/🔽Download_My_CV-002366"/></a>
+<a href="https://www.linkedin.com/in/nikhilxnepal/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/nikhilxnepal/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/nikhilxnepal"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+
