@@ -12,18 +12,21 @@ Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast fr
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
 <img src="https://img.shields.io/badge/React%20-30a8fe" />
-<img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+<img src="https://img.shields.io/badge/Python-05dfd7" />
+<img src="https://img.shields.io/badge/Photoshop -e8505b" />
+<img src="https://img.shields.io/badge/AdobeXD -24a19c" />
+
 
 </br>
 <details>
 	<summary>Tools</summary>
 	<ul>
-    <li>Visual Studio Code</li>
+    		<li>Visual Studio Code</li>
 		<li>Adobe Photoshop</li>
 		<li>Adobe XD</li>
-    <li>Github</li>
-    <li>Pycharm</li>
-   </ul>
+    		<li>Github</li>
+    		<li>Pycharm</li>
+   	</ul>
 
 </details>
 <details>
