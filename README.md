@@ -11,7 +11,7 @@ Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast fr
 ## Skills
 
 <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/react%20-30a8fe" />
+<img src="https://img.shields.io/badge/React%20-30a8fe" />
 <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
 </br>
@@ -25,6 +25,16 @@ Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast fr
     <li>Pycharm</li>
    </ul>
 
+</details>
+<details>
+	<summary>Networking</summary>
+	<ul>
+		<li>Routing & Switching</li>			
+		<li>Network Security</li>
+		<li>Firewall</li>
+		<li>Intrusion Detection System(IDS)</li>
+		<li>Virtual Private Network(VPN)</li>
+	</ul>
 </details>
 
 <details>
