@@ -19,6 +19,26 @@ Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast fr
 
 </br>
 <details>
+	<summary>Networking</summary>
+	<ul>
+		<li>Routing & Switching</li>			
+		<li>Network Security</li>
+		<li>Firewall</li>
+		<li>VMWare ESXi</li>
+		<li>VMWare vSphere</li>
+		<li>VMWare vCenter</li>
+		<li>Network Design</li>
+		<li>Palo Alto Networks</li>
+		<li>Zabbix</li>
+		<li>Grafana</li>
+		<li>Check-mk</li>
+		<li>Virtualization</li>
+		<li>Intrusion Detection System(IDS)</li>
+		<li>Virtual Private Network(VPN)</li>
+	</ul>
+</details>
+
+<details>
 	<summary>Tools</summary>
 	<ul>
     		<li>Visual Studio Code</li>
@@ -28,16 +48,6 @@ Hi, I'm Nikhil Nepal, a passionate Web developer and CyberSecurity Enthusiast fr
     		<li>Pycharm</li>
    	</ul>
 
-</details>
-<details>
-	<summary>Networking</summary>
-	<ul>
-		<li>Routing & Switching</li>			
-		<li>Network Security</li>
-		<li>Firewall</li>
-		<li>Intrusion Detection System(IDS)</li>
-		<li>Virtual Private Network(VPN)</li>
-	</ul>
 </details>
 
 <details>
